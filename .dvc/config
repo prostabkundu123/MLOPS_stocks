@@ -1,0 +1,5 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = gs://iitmbs-mlops-21f1001797_stock
+    credentialpath = ../careful-chimera-473709-f1-49e03b71a66c.json
